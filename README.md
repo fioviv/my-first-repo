@@ -1,28 +1,23 @@
-# This is a large heading
+# CURSO DE UNIX
 
-## This is a smaller heading
+## its a unix system!
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+And as **para esto es doble asterisco** y para esto es *simple*
 
-- This is
-- an unordered
-- list
+- esta es una lista
+- desorganizada
 
-1. This is
-2. an ordered
-3. list
 
-Here is `some code` in the middle of a sentence.
+1. esta esta enumerada
+2. dos
+3. tres
+
+aqui hay codigo
 
 ```
-This is
-a block
-of code
+codigo
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Asi se hace  [un link](https://www.wikipedia.org/).
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+
